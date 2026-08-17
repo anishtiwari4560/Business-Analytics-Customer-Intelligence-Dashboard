@@ -172,9 +172,17 @@ Business Analytics Dashboard
 
 ## 📸 Dashboard Preview
 
-The repository includes four dashboard screenshots representing the four analytical sections of the project.
+### 1. Monthly Business Performance
+![Monthly Business Performance](snaps/dashboard_page_1.png)
 
----
+### 2. Sales & Profitability Analysis
+![Sales & Profitability Analysis](snaps/dashboard_page_2.png)
+
+### 3. Product Performance & Profitability
+![Product Performance & Profitability](snaps/dashboard_page_3.png)
+
+### 4. Customer Analytics & Customer Value
+![Customer Analytics & Customer Value](snaps/dashboard_page_4.png)
 
 ## 🚀 Why This Project Matters
 
