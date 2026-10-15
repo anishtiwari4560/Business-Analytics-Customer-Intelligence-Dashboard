@@ -209,11 +209,11 @@ These are associations observed in the analyzed dataset; they do not, by themsel
 
 ### Dashboard Previews
 
-![Customer Churn Analysis Dashboard — Page 1](snaps/customer-churn-analysis-page-1.png)
+![Customer Churn Analysis Dashboard — Page 1](Snaps/customer-churn-analysis-page-1.png)
 
 *Page 1 — Overall customer churn, revenue, tenure, services, contracts, and payment methods.*
 
-![Segment & Customer Analysis — Page 2](snaps/customer-churn-analysis-page-2.png)
+![Segment & Customer Analysis — Page 2](Snaps/customer-churn-analysis-page-2.png)
 
 *Page 2 — High-risk segment analysis, segment-versus-overall comparisons, customer details, and risk indicators.*
 
@@ -259,12 +259,12 @@ The following is a suggested combined structure. Adjust paths to match the actua
 business-analytics-customer-intelligence/
 │
 ├── Dashboard/
-│   ├── business-analytics-dashboard.pbix
+│   ├── Business Analytics & Customer Intelligence Dashboard.pbix
 │   └── customer-churn-dashboard.pbix
 │
 ├── Dataset/
-│   ├── business-analytics/
-│   └── customer-churn/
+│   ├── cleaned_churn_data.csv/
+│   └── cleaned_sales.csv/
 │
 ├── SQL/
 │   ├── database.sql
@@ -273,15 +273,13 @@ business-analytics-customer-intelligence/
 │   └── analysis.sql
 │
 ├── Python/
-│   └── supporting analysis scripts
+│   └── 
 │
 ├── Snaps/
 │   ├── dashboard_page_1.png
 │   ├── dashboard_page_2.png
 │   ├── dashboard_page_3.png
 │   └── dashboard_page_4.png
-│
-├── snaps/
 │   ├── customer-churn-analysis-page-1.png
 │   └── customer-churn-analysis-page-2.png
 │
